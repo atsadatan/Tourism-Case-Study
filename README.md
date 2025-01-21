@@ -1,6 +1,6 @@
 # Tourism-Case-Study
 
-Check out Figma to see  Mockup: 
+Check out Figma to see  Mockup and System Architecture: 
 
 https://www.figma.com/design/QC496FAEBSJmpTbtWQ8JOQ/IT-Solution-Frontis--?node-id=18-690&t=Cr04G0AKmIJjfP5Z-1
 
